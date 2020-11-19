@@ -1,0 +1,7 @@
+import numpy as np 
+import matplotlip.pyplot as plt 
+x=3
+y=4
+z=x*y
+print (z)
+a=12
